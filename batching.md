@@ -20,7 +20,7 @@ The major benefit of batching is that the review process is *structured* for coh
 Doing this kind of design work requires focus. Compiler work requires getting deeply immersed in the problems people face and the details of the code. What is needed? What is possible? Same for the package manager, the REPL, the documentation, the core packages, etc. The problem is:
 
   1. It is not possible to be deeply immersed in all of these projects at the same time.
-  2. A unfocused process is does not tend to produce coherent design.
+  2. An unfocused process does not tend to produce coherent design.
 
 Batching really helps with this. Focusing on high quality work has produced some of the best ideas in Elm. For example, while adding the `--output=json` flag, we realized that type error messages could really great. No one thought that was possible with ML-family languages before! Even the designer of Elm! Same thing happened with the parser. While improving parser performance, we realized that the parse error messages could be very dramatically improved. The very best parts of Elm have all come from focused exploration, not from rigid scheduling or unstructured online discussion.
 
