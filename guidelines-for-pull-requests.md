@@ -20,7 +20,7 @@
 
   - **Be friendly!** Everyone is working hard and trying to be effective.
 
-  - **Have healthy expectations.** The workflow around Elm is optimized for throughput, not latency. This has tricky implications, so read more about it [here](expectations.md).
+  - **Have healthy expectations.** The workflow around Elm is optimized for throughput, not latency. This has tricky implications, so read more about it [here](https://github.com/elm/expectations).
 
 
 ## Hall of Fame
