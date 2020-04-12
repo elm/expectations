@@ -16,7 +16,7 @@ This repo tries to document practices that people new to Elm sometimes find surp
 
 ## Participation Guidelines
 
-**What is good etiquete when replying to issues or pull requests?**
+**What is good etiquette when replying to issues or pull requests?**
 
 Issues and pull requests are treated more like a work queue than a discussion platform. It is usually better to talk through stuff in a [community forum][comm] and summarize it down into a clear idea before it becomes an issue.
 
