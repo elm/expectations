@@ -1,6 +1,6 @@
 # Expectations
 
-Elm does not follow the standard "open source" culture in certain ways.
+Elm development does not follow the current "open source" culture in certain ways, it's more similar to the [**Cathedral**](http://catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) style popular among Free Software developers in the 20th century.
 
 This repo tries to document practices that people new to Elm sometimes find surprising. What are they? Why do we do them?
 
